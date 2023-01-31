@@ -1,14 +1,17 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/geocine/phaser3-rollup-typescript#readme"><img src="https://i.imgur.com/6lcIxDs.png" alt="header" width="600"/></a>
-  <br>
-  Phaser 3 TypeScript Starter
-  <br>
-</h1>
+## Setup
 
-This is a [Phaser 3](https://github.com/photonstorm/phaser) starter with [TypeScript](https://www.typescriptlang.org/), [Rollup](https://rollupjs.org) with ⚡️ lightning fast HMR through [Vite](https://vitejs.dev/).
+## Windows
+```
+winget install OpenJS.NodeJS.LTS
+npm i -g yarn
+yarn install
+```
 
-## Available Commands
+## Mac
+Install node
+
+## Linux
+You use Linux, you can figure it out.
 
 | Command | Description |
 |---------|-------------|
