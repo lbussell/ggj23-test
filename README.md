@@ -1,6 +1,7 @@
 ## Setup
 
 ## Windows
+
 ```
 winget install OpenJS.NodeJS.LTS
 npm i -g yarn
@@ -8,17 +9,19 @@ yarn install
 ```
 
 ## Mac
+
 Install node
 
 ## Linux
+
 You use Linux, you can figure it out.
 
-| Command | Description |
-|---------|-------------|
-| `yarn install` | Install project dependencies |
-| `yarn dev` | Builds project and open web server, watching for changes |
-| `yarn build` | Builds code bundle with production settings  |
-| `yarn serve` | Run a web server to serve built code bundle |
+| Command        | Description                                              |
+| -------------- | -------------------------------------------------------- |
+| `yarn install` | Install project dependencies                             |
+| `yarn dev`     | Builds project and open web server, watching for changes |
+| `yarn build`   | Builds code bundle with production settings              |
+| `yarn serve`   | Run a web server to serve built code bundle              |
 
 ## Development
 
